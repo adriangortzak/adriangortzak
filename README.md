@@ -1,6 +1,6 @@
 # 💫About Me :
 
-- 🔭 I’m currently working on Api's and data pipelines at Valueguard
+- 🔭 I’m currently working on API's and data pipelines at Valueguard
 - 🌱 I’m currently learning data science and AI
 - 📫 How to reach me: email or phone
 
