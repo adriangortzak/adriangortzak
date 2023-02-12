@@ -1,3 +1,6 @@
+![alt text](bg_image.png)
+
+
 # 💫About Me :
 
 - 🔭 I’m currently working on API's and data pipelines at Valueguard
